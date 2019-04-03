@@ -1,0 +1,3 @@
+[submodule "GoApplicationServer"]
+	path = GoApplicationServer
+	url = https://github.com/Ashlei/GoApplicationServer.git
